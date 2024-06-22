@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709889750 source:c:\__projects 2024\Ðí ÞÇÑ - shortest path\dijkstra's algorithm\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<climits>
+	<chrono>
+
